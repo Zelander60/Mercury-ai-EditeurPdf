@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.git
+.env
+.env*.local
+dev-log.txt
+tsconfig.tsbuildinfo
+EmailTemplate.html
+emailTemplate.html
+scripts
+upgrade-backup

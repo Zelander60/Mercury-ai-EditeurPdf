@@ -1,0 +1,19 @@
+  ▲ Next.js 13.5.5
+  - Local:        http://localhost:3099
+  - Environments: .env
+  - Experiments (use at your own risk):
+     · serverActions
+
+ ✓ Ready in 82.4s
+ ○ Compiling /src/middleware ...
+ ✓ Compiled /src/middleware in 5.8s (192 modules)
+ ○ Compiling /(site)/page ...
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+ ✓ Compiled /(site)/page in 32.5s (1030 modules)
+
+ ⚠ metadata.metadataBase is not set for resolving social open graph or twitter images, using "http://localhost:3099". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ✓ Compiled in 4.6s (442 modules)
+
+C:\Users\HP\book-platform>
